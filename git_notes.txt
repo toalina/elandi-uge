@@ -1,0 +1,2 @@
+this is a new file to take notes about git.
+we made this file using the touch command.
